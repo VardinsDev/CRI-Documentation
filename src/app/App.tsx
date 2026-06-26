@@ -1135,7 +1135,7 @@ export default function App() {
             <div className="flex items-center gap-2">
               <Cpu size={14} className="text-teal-400" />
               <span className="font-mono text-xs text-slate-400">
-                Chicago State Invitationals — FTC Docs
+                Chicago Robotics Invitational — FTC Docs
               </span>
             </div>
           </div>
