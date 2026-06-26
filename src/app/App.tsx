@@ -1022,7 +1022,7 @@ function Sidebar({
         <div className="flex items-center gap-2 mb-1">
           <Radio size={14} className="text-teal-400" />
           <span className="font-bold text-slate-100 text-sm tracking-wide" style={{ fontFamily: "'Rajdhani', sans-serif", letterSpacing: "0.08em" }}>
-            CSI ROBOTICS
+            Bronco Robotics
           </span>
         </div>
         <span className="font-mono text-xs text-teal-500/50">v2024–2025</span>
