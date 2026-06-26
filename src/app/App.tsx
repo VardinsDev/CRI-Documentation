@@ -159,8 +159,8 @@ function SectionOverview() {
     <section>
       <SectionTitle label="Overview" id="overview" />
       <p className="text-slate-300 leading-relaxed mb-6">
-        <strong className="text-slate-100">Chicago State Invitationals</strong> is the competition robot codebase for an FTC (FIRST Tech Challenge)
-        team. Built in Java on the FTC SDK 11.1, it controls a mecanum-drive robot equipped with a precision
+        <strong className="text-slate-100">Chicago State Invitationals</strong> is the competition robot codebase for FTC (First Tech Challenge) team 30526 based in Spring Hill, Kansas. 
+        Built in Java on the FTC SDK 11.1, it controls a mecanum-drive robot equipped with a precision
         shooter, servo-driven turret with AprilTag vision tracking, and a path-following autonomous system powered
         by Pedro Pathing.
       </p>
@@ -1025,7 +1025,7 @@ function Sidebar({
             Bronco Robotics
           </span>
         </div>
-        <span className="font-mono text-xs text-teal-500/50">v2024–2025</span>
+        <span className="font-mono text-xs text-teal-500/50">v2025-2026</span>
       </div>
 
       <div className="h-px bg-gradient-to-r from-cyan-500/20 to-transparent mb-3" />
