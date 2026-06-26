@@ -319,14 +319,14 @@ function SectionDrivetrain() {
         <Table
           headers={["Position", "Hardware Name", "Direction"]}
           rows={[
-            ["Front Left", <Code>lf</Code>, "Reversed"],
-            ["Front Right", <Code>rf</Code>, "Forward"],
-            ["Back Left", <Code>lr</Code>, "Reversed"],
-            ["Back Right", <Code>rr</Code>, "Forward"],
+            ["Front Left", <Code>fl</Code>, "Reversed"],
+            ["Front Right", <Code>fr</Code>, "Forward"],
+            ["Back Left", <Code>bl</Code>, "Reversed"],
+            ["Back Right", <Code>br</Code>, "Forward"],
           ]}
         />
         <InfoCard>
-          Motor names (<Code>lf</Code>, <Code>rf</Code>, <Code>lr</Code>, <Code>rr</Code>) must match the names configured in the Robot Configuration on the Driver Station.
+          Motor names (<Code>fl</Code>, <Code>fr</Code>, <Code>bl</Code>, <Code>br</Code>) must match the names configured in the Robot Configuration on the Driver Station.
         </InfoCard>
       </SubSection>
 
