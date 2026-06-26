@@ -159,7 +159,8 @@ function SectionOverview() {
     <section>
       <SectionTitle label="Overview" id="overview" />
       <p className="text-slate-300 leading-relaxed mb-6">
-        <strong className="text-slate-100">Chicago State Invitationals</strong> is the competition robot codebase for FTC (First Tech Challenge) team 30526 based in Spring Hill, Kansas. 
+        <strong className="text-slate-100">Chicago Robotics Invitational</strong> is a competition for FTC (First Tech Challenge) teams to compete in a friendly and challenging environment. 
+        This repository contains the robot code for Team 30526, which is designed to perform well in both autonomous and teleoperated phases of the competition.
         Built in Java on the FTC SDK 11.1, it controls a mecanum-drive robot equipped with a precision
         shooter, servo-driven turret with AprilTag vision tracking, and a path-following autonomous system powered
         by Pedro Pathing.
